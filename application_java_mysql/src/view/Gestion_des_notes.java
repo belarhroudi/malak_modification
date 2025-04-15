@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package view;
-import application_java_mysql.controller.NoteController;
+import controller.NoteController;
 import java.sql.Statement;  // Utilisez java.sql.Statement
 
 

@@ -4,6 +4,7 @@
  */
 package application_java_mysql.controller;
 
+import controller.NoteController;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
